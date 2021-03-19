@@ -47,7 +47,7 @@
     "wechaty-puppet-puppeteer": "^0.22.1"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "git-scripts": "^0.4.3",
     "gm": "^1.23.1",
